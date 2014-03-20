@@ -2,3 +2,4 @@
 /bin
 .gradle
 .DS_Store
+.settings
